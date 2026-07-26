@@ -30,8 +30,16 @@ A feature-rich 3D Bedwars game with multiplayer support, bot AI, progression sys
 - 3D immersive gameplay
 
 ### Characters & Perks
-- **Vex**: Curse opponents, reduce HP to 90, apply poison damage
-- More characters available in shop
+- Vex: Curse Opponents, Reduce HP to 90, Apply Poison Damage
+- Speedster: Move 15% Faster Throughout The Game
+- Guardian: Take 10% Damage Reduction (stackable)
+- Archer: Increase Bow Damage and Accuracy
+- Tank: Have Extra Health (Regenerates)
+- Phantom: Invisibility After Taking Damage For 2 Seconds (5 second cooldown)
+- Berserker: Lower Health = Higher Damage Output
+- Medic: Quickly Heal Nearby Teammates
+- Ninja: Move Sneakily Throughout The Map Even While Crouched
+- Gladiator: Reflect Damage Onto Enemies When Dealt Damage
 
 ## Installation
 
