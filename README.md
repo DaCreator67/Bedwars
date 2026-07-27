@@ -30,7 +30,7 @@ A feature-rich 3D Bedwars game with multiplayer support, bot AI, progression sys
 - 3D immersive gameplay
 
 ### Characters & Perks
-- Vex: Curse Opponents, Reduce HP to 90, Apply Poison Damage
+- Vex: Reduce Opponent Movement Speed, Reduce Opponent HP to 90, Apply Poison Damage
 - Speedster: Move 15% Faster Throughout The Game
 - Guardian: Take 10% Damage Reduction (stackable)
 - Archer: Increase Bow Damage and Accuracy
